@@ -15,5 +15,10 @@ Drive link of Video presentation - https://drive.google.com/file/d/1yN9soGkX2LDC
 Assignment 05 uploaded in github <br/>
 Github Link- https://github.com/PujaVaishya/ML_assignment_700741750/blob/main/Assignment5_ML.ipynb <br/>
 Link to documents- https://docs.google.com/document/d/1-29hUkbwNHU9p7XGoo6SgPvCIzZNXLB0UY_R979mkAw/edit <br/>
-Drive Link of Video demonstration - https://drive.google.com/file/d/1YGA4iPJZBLI0yfioDd9GF2U_Yqdhv9hC/view?usp=share_link
+Drive Link of Video demonstration - https://drive.google.com/file/d/1YGA4iPJZBLI0yfioDd9GF2U_Yqdhv9hC/view?usp=share_link<br/>
+
+
+Assignmnet 06 uploaded in github<br/>
+Link to docs- https://docs.google.com/document/d/1xliyg1Rr4eZcno9DgMGoH8WIIO4XnCtZ2hv3KgdSC4Y/edit <br/>
+Link to video demos- https://drive.google.com/file/d/1Qm3uUxbJNjMT3hpWTqnhFwFEEHa4bC4b/view?usp=share_link <br/>
 
