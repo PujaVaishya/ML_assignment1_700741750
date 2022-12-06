@@ -22,3 +22,7 @@ Assignmnet 06 uploaded in github<br/>
 Link to docs- https://docs.google.com/document/d/1xliyg1Rr4eZcno9DgMGoH8WIIO4XnCtZ2hv3KgdSC4Y/edit <br/>
 Link to video demos- https://drive.google.com/file/d/1Qm3uUxbJNjMT3hpWTqnhFwFEEHa4bC4b/view?usp=share_link <br/>
 
+Final Project Increment updated in github <br/>
+Jupyter notebook file is uploaded here <br/>
+Power Point Presentation has been uploaded also <br/>
+
